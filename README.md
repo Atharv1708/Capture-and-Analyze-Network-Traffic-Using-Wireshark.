@@ -12,7 +12,6 @@ ________________________________________
 ________________________________________
 3. Traffic Generation
 To generate traffic during the capture:
-•	Opened a web browser and visited: https://www.example.com
 •	Executed a ping command to simulate ICMP traffic:
 ping -c 5 google.com
 ________________________________________
