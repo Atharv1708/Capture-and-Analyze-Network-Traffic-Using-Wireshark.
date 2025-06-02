@@ -1,0 +1,8 @@
+# 1. Launch Wireshark
+wireshark &
+
+# 2. Generate traffic - open a website
+xdg-open https://www.example.com
+
+# 3. Generate traffic - ping a server
+ping -c 5 google.com
